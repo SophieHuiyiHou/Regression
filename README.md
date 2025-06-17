@@ -44,5 +44,5 @@ pip install -r requirements.txt
 
 ### 3. Launch the notebook
 ```bash
-jupyter notebook Regression.ipynb
+jupyter notebook "Regression.ipynb"
 ```
