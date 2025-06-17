@@ -27,3 +27,22 @@ Install them using:
 
 ```bash
 pip install -r requirements.txt
+```
+
+## How to run
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/regression-project.git
+cd regression-project
+```
+
+### 2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Launch the notebook
+```bash
+jupyter notebook Regression.ipynb
+```
